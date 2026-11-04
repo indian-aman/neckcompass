@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://github.com/indian-aman/necklink"><img src="https://raw.githubusercontent.com/indian-aman/necklink/main/assets/logo/necklink-mark.svg" alt="NeckLink" width="52"></a>
+
 # NeckCompass (`neckcompass` v1.0.0)
 
 **Biophysical *Drosophila* Central Complex ring-attractor compass and GPS-denied path integrator with natural ferromagnetic spike rejection — in Python and zero-heap, zero-float ANSI C99 (`316 B` RAM, `~1 us`/step).**
